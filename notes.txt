@@ -1,0 +1,4 @@
+References:
+    — How to Build a Relational Database From Scratch (https://medium.com/swlh/how-to-build-a-relational-database-from-scratch-e208061027c7):
+        This article insipired me to start this project :>
+    
